@@ -1,0 +1,9 @@
+com\wuworks1\my_spring_boot_app\controller\FallbackController.class
+com\wuworks1\my_spring_boot_app\controller\HomeController.class
+com\wuworks1\my_spring_boot_app\config\JacksonConfig.class
+com\wuworks1\my_spring_boot_app\service\FeedbackService.class
+com\wuworks1\my_spring_boot_app\model\Feedback.class
+com\wuworks1\my_spring_boot_app\WebConfig.class
+com\wuworks1\my_spring_boot_app\MySpringBootAppApplication.class
+com\wuworks1\my_spring_boot_app\repository\FeedbackRepository.class
+com\wuworks1\my_spring_boot_app\controller\FeedbackController.class
